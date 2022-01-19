@@ -8,6 +8,12 @@
 - flat color : https://flatuicolors.com/
 
 3. Recipe App
+- public apis : https://github.com/public-apis/public-apis
+- mealDB
+
+- icon : https://heroicons.com/
+- icon css link: https://cdnjs.com/libraries/font-awesome
+- icon class name : https://fontawesome.com/
 
 4. Notes App
 
