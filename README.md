@@ -15,14 +15,4 @@
 - icon css link: https://cdnjs.com/libraries/font-awesome
 - icon class name : https://fontawesome.com/
 
-4. Notes App
-
-5. Drawing App
-
-6. Todo App
-
-7. 
-
-8.
-
-9.
+4. Todo App
