@@ -16,3 +16,7 @@
 - icon class name : https://fontawesome.com/
 
 4. Todo App
+5. Movie app
+- design : https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
+- public apis
+- tmdb
